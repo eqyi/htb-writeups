@@ -10,4 +10,4 @@ Public educational writeups of retired Hack The Box machines.
 
 ## About the author
 Islam — trader & cybersecurity enthusiast.  
-Instagram: @_eqiy • GitHub: https://github.com/islamyasereq
+Instagram: @_eqiy • GitHub: https://github.com/eqyi
